@@ -22,9 +22,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/opennota/re2dfa/codegen"
-	"github.com/opennota/re2dfa/dfa"
-	"github.com/opennota/re2dfa/nfa"
+	"gitlab.com/opennota/re2dfa/codegen"
+	"gitlab.com/opennota/re2dfa/dfa"
+	"gitlab.com/opennota/re2dfa/nfa"
 )
 
 func main() {

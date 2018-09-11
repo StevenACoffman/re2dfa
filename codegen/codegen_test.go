@@ -19,8 +19,8 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/opennota/re2dfa/dfa"
-	"github.com/opennota/re2dfa/nfa"
+	"gitlab.com/opennota/re2dfa/dfa"
+	"gitlab.com/opennota/re2dfa/nfa"
 )
 
 func writeToFile(fn, s string) (err error) {

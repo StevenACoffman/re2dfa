@@ -19,8 +19,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/opennota/re2dfa/nfa"
-	"github.com/opennota/re2dfa/runerange"
+	"gitlab.com/opennota/re2dfa/nfa"
+	"gitlab.com/opennota/re2dfa/runerange"
 )
 
 type Node struct {
